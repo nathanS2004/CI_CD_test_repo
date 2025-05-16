@@ -1,0 +1,23 @@
+{
+  "name": "ci_cd_test_repo",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000I\u0000_\u0000C\u0000D\u0000_\u0000t\u0000e\u0000s\u0000t\u0000_\u0000r\u0000e\u0000p\u0000o\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanS2004/CI_CD_test_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nathanS2004/CI_CD_test_repo/issues"
+  },
+  "homepage": "https://github.com/nathanS2004/CI_CD_test_repo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.18"
+  }
+}
