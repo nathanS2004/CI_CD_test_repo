@@ -26,6 +26,8 @@ jobs:
       run: npm ci
     - name: install playwright browsers
       run: npx playwright install-deps
+    - name: install playwright browsers no deps
+      run: npx playwright install
 
     #- name: Install Playwright Browsers
      # uses: microsoft/playwright-github-action@v1
